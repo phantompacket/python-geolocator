@@ -4,12 +4,12 @@
 #
 # REFERENCES BELOW:
 # Anderson, B. (2021, November 26). BASH Geolocator. GitHub.
+#   https://github.com/phantompacket/python-geolocator/blob/main/pyGeoGUI.py        <-- ORIGINAL
+#
+# Anderson, B. (2023, November 4). Python-Geolocator - pyGeoGUI.py. GitHub.         <-- PYTHON PORT
 #   https://github.com/phantompacket/python-geolocator/blob/main/pyGeoGUI.py
 #
-# Anderson, B. (2023, November 4). Python-Geolocator - pyGeoGUI.py. GitHub.
-#   https://github.com/phantompacket/python-geolocator/blob/main/pyGeoGUI.py
-#
-# Bard. (2023). Python Geolocator GUI. [Large Language Model from Google AI].
+# Bard. (2023). Python Geolocator GUI. [Large Language Model from Google AI].       <-- AI Assistance for GUI
 
 
 import tkinter as tk
