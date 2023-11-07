@@ -3,7 +3,7 @@
 # Professor Ingrid Gaviria
 #
 # REFERENCES BELOW:
-# Anderson, B. (2021, November 26). BASH Geolocator. GitHub.
+# Anderson, B. (2023, November 4. BASH Geolocator. GitHub.
 #   https://github.com/phantompacket/python-geolocator/blob/main/pyGeoGUI.py
 #
 # Anderson, B. (2023, November 4). Python-Geolocator - pyGeoGUI.py. GitHub.
